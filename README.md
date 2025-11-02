@@ -15,4 +15,4 @@ Team member : Oviya L
 
 Servicenow Instance: https://dev252582.service-now.com/now/nav/ui/classic/params/target/ui_page.do%3Fsys_id%3Dc1a7267b83143210e910b8a6feaad3c5
 
-Demo Vedio Link: https://drive.google.com/file/d/1Exbfq1OXSuo0HLditdQy3ECdSdi_4wO-/view?usp=sharin
+Demo Video Link: https://drive.google.com/file/d/1hMViXlJMSr0t_JX6ABnVykuswgSu6QGN/view?usp=sharing
